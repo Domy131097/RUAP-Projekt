@@ -6,7 +6,7 @@ namespace Zad1ConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Dominika Tkalčeca!");
+            Console.WriteLine("Pozdrav iz aplikacije od Dominika Tkalčeca! \n Broj indeksa: AI0000");
         }
     }
 }
